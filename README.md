@@ -1,8 +1,7 @@
 # Streetcar
 Streetcar is a game about streetcars
 '''
-streetcar is a game about cable cars.
-you are a cable car person tasked with setting up cable car tracks and trains 
+you are a streetcar person tasked with setting up cable car tracks and trains 
 while earning enough money to expand your streetcar service on to other cities.
 -you must find the most optimal path to lay each cable car track, accounting for:
 
